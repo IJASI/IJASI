@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 
 I'm currently working on a variety of projects to enhance my technical skills and deepen my understanding of software development. My focus is on building efficient, scalable solutions while continuously improving my coding practices and exploring new technologies.
 
 These projects reflect my commitment to learning, problem-solving, and delivering high-quality code. I’m always looking for opportunities to grow and collaborate with others in the tech community.
